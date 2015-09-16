@@ -1,5 +1,6 @@
 puts"how many hours do you work"
 hour=gets.chomp.to_i
-puts"how much hours do you make"
-
-puts"how many weeks do you work"
+puts"how much do you make per hour"
+hour=gets.chomp.to_i
+puts"how many weeks did you work"
+week=gets.chomp.to_i
